@@ -1,1 +1,1 @@
-This is book recommendation database, where a reader can select the bok of their choice based  on the recommendations by other users.Theycan also  select  on the basis  of genre, author and ratings.
+This is a book recommendation database, where a reader can select books of their choice based  on the recommendations by other users.They can also  select books on the basis of genre, author and ratings.
